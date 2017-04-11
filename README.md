@@ -1,3 +1,10 @@
+Extendscript Call System
+========================
+
+Exploration on how to call system commands from extendscript. Mainly for InDesign. 
+
+----
+
 Dear all. I think this was already discussed several times but I can't find any good example around the web. How do you execute system commands on windows? On macOS we use (in Basil.js) these snippets:  
 
 Snippet 1:  
